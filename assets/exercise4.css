@@ -1,0 +1,28 @@
+.verde {
+  color: rgb(15, 206, 15);
+  font-weight: bold;
+}
+.grigio {
+  color: rgb(112, 112, 112);
+  font-weight: bold;
+}
+.btn-verde {
+  background-color: rgb(15, 206, 15);
+  color: white;
+  font-weight: bold;
+}
+ul {
+  list-style-type: none;
+}
+
+.brd-verde {
+  border-top: 2px solid rgb(15, 206, 15);
+  border-bottom: 2px solid rgb(15, 206, 15);
+}
+.move {
+  margin-top: -50px;
+}
+#hero {
+  position: relative;
+  z-index: -1;
+}
